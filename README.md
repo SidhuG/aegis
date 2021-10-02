@@ -8,7 +8,6 @@ Aegis is a collection of tools that make up an intelligent system which provides
 * [AEGIS-ENFORCER](https://github.com/SidhuG/aegis-enforcer)
 
 
-
 With each of the tool dependent on the tool(s) above it in the stack. Any exploits and vulnerabilities that may exist in the softwares/services are neutralised by Aegis. The tools and a machine learning system that make up 'Aegis' severley limit actions of malawares, ransomwares or a hacker who has broken into the system.
 
 ## What and How of Aegis
